@@ -1,0 +1,11 @@
+Código,Plan,Valor,Promo1,Meses1,Promo2,Meses2,Detalles,Section,Subsection,ExtraFor,Active
+T001,Trío 100Mb,50000,30000,6,40000,3,"Fibra 100 + TV básica",Hogar,trio,,TRUE
+DT01,Fibra+TV 1,60000,40000,6,50000,3,"Fibra + TV paquete",Hogar,duo,,TRUE
+DF01,Fibra+Fijo 1,55000,35000,6,45000,3,"Fibra + Fijo",Hogar,duo,,TRUE
+F01,Fibra 100Mb,45000,30000,6,40000,3,"Fibra 100Mb",Hogar,uno,,TRUE
+NM01,Nuevo Multi 1,20000,10000,6,15000,3,"Línea móvil 5GB",Movil,nuevo,,TRUE
+NM02,Nuevo Multi 2,30000,20000,6,25000,3,"Línea móvil 10GB",Movil,nuevo,,TRUE
+NM02S,Nuevo Multi 2 - Extra,10000,5000,3,8000,2,"Extra asociado a NM02",Movil,nuevo,NM02,TRUE
+CM01,Cartera Multi 1,15000,10000,6,12000,3,"Línea cartera 4GB",Movil,cartera,,TRUE
+CM02,Cartera Multi 2,18000,12000,6,14000,3,"Línea cartera 6GB",Movil,cartera,,TRUE
+CM02S,Cartera Multi 2 - Extra,9000,5000,3,7000,2,"Extra asociado a CM02",Movil,cartera,CM02,TRUE

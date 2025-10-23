@@ -1,0 +1,6 @@
+Section;Subsection;ComponentType;Prefixes;ToggleOptions;MultiPrefixes;MaxAdditional;ExtraMapping
+Hogar;trio;trio;T;; ;0;
+Hogar;duo;duo;;fibra_tv:DT;fibra_tv:DT;0;
+Hogar;uno;uno;;fibra:F;tv:TV;fijo:FI;0
+Movil;nuevo;movil_group;;;multi:NM,datos:ND,voz:NV;4;NM02:NM02S
+Movil;cartera;movil_group;;;multi:CM,datos:CD,voz:CV;4;CM02:CM02S
